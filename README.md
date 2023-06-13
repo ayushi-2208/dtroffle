@@ -16,8 +16,9 @@
 <li>npm (Node Package Manager)</li>
 </ul>
 
-<h2>Screenshots of Web Application</h2>
-<div align ="center" style="display:block;"><img src="https://github.com/ayushi-2208/dtroffle/assets/69577773/78ffe267-da7c-4529-b0e4-0a05b9a90c5b" alt="" style="height: 420px; width: 420px; margin-bottom: 30px "><img src="https://github.com/ayushi-2208/dtroffle/assets/69577773/2aef6a5f-df4e-49c3-b6ea-6f6659f61855" alt="" align="center"  style="height: 420px; width: 420px; margin-bottom: 30px ">  </div>
+<h2>Screenshots</h2>
+<img src="https://github.com/ayushi-2208/dtroffle/assets/69577773/78ffe267-da7c-4529-b0e4-0a05b9a90c5b" alt="" style="height: 380px; width: 720px"><br/>
+<img src="https://github.com/ayushi-2208/dtroffle/assets/69577773/2aef6a5f-df4e-49c3-b6ea-6f6659f61855" alt="" align="center"  style="height: 380px; width: 720px;"> <br/>
 
 <h2>Installation</h2>
 <hr>
