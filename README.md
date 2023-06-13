@@ -1,70 +1,85 @@
-# Getting Started with Create React App
+<h1>React Product API Integration</h1>
+<hr><p>This is a React application that fetches product data from an API and displays the information in a user-friendly manner using React components.</p>
+<h2>API Details</h2>
+<hr>
+<p>The application uses the following API endpoint to fetch the product data:</p>
+<ul>
+<li>API Endpoint: https://fakestoreapi.com/products </li>
+</ul>
+<p>The API provides product data in JSON format, including information such as product name, description, price, and image URL.</p>
+<h2>Requirements</h2>
+<hr>
+<p>To run the application, make sure you have the following dependencies installed:</p>
+<ul>
+<li>Node.js (version 12 or higher)</li>
+</ul><ul>
+<li>npm (Node Package Manager)</li>
+</ul>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h2>Screenshots of Web Application</h2>
+<div align ="center" style="display:block;"><img src="https://github.com/ayushi-2208/NetflixClone/blob/master/Screenshots/Screenshot%20(129).png" alt="" style="height: 420px; width: 420px; margin-bottom: 30px "><img src="https://github.com/ayushi-2208/NetflixClone/blob/master/Screenshots/Screenshot%20(130).png" alt="" align="center"  style="height: 420px; width: 420px; margin-bottom: 30px ">  </div>
 
-## Available Scripts
+<h2>Installation</h2>
+<hr>
+Follow these steps to set up and run the application:
+<ol>
+<li>
+Clone the repository to your local machine using the following command:<br/>
+git clone https://github.com/your-username/your-forked-repo.git
+</li></ol>
+<ol>
+<li>
+Navigate to the project directory:<br/>
+cd your-forked-repo
 
-In the project directory, you can run:
+</li>
+</ol>
+<ol>
+<li>
+Install the dependencies using npm:<br/>
+npm install
+</li>
+</ol>
 
-### `npm start`
+<h2>Usage</h2>
+<hr><p>To start the React application, use the following command:<br/>npm start
+</p>
+<p>This will run the application in development mode and open it in your default browser at http://localhost:3000.<br/>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+The application will display a list of products retrieved from the Product API. Each product will show the product name, description, price, and an image.</p>
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+<h2>Additional Details</h2>
+<hr>
+<ul>
+<li>
+The application uses asynchronous JavaScript to fetch the product data from the API.
+</li>
 
-### `npm test`
+<li>
+It implements error handling for failed API requests and displays appropriate error messages.
+</li>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<li>
+A loading state is implemented while waiting for the API response.
+</li>
 
-### `npm run build`
+<li>
+The application uses modern JavaScript best practices, including ES6+ features.
+</li>
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+<li>
+The product information is styled using CSS. You can find the CSS styles in the "styles.css" file.
+</li>
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+<li>
+The application structure is based on React components.
+</li>
+</ul>
+<p>Feel free to customize the application and add any additional features or improvements as needed.</p>
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+<h2>License</h2>
+<hr>
+<p>This project is licensed under the <b>MIT License.</b></p>
 
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<h2>Deployment</h2>
+<a href="https://64885d7ffff0d30f9801eb01--dancing-klepon-30f71c.netlify.app/">👉Project Link</a>
